@@ -1,0 +1,180 @@
+
+Copyright (C) 1994-2019 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: P-2019.03P-Beta2
+Install: D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn
+OS: Windows 6.2
+
+Hostname: LAPTOP-8L16VFIA
+
+Implementation : synplify_impl
+Synopsys HDL compiler and linker, Version comp2019q1p1, Build 007R, Built Feb 26 2019 11:45:06
+
+Modified Files: 1
+FID:  path (prevtimestamp, timestamp)
+84       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23)
+
+*******************************************************************
+Modules that may have changed as a result of file changes: 47
+MID:  lib.cell.view
+39       work.Controller.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+40       work.Count_pulse.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+41       work.Frequency_divider_dynamic_scanning.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+42       work.Nixie_Light_Display.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+43       work.Pulse.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+0        work.afifo_16i_64o_512.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+1        work.afifo_64i_16o_128.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+2        work.aq_axi_master.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+44       work.clk_10hz.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+45       work.clk_5hz.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+4        work.cmos_8_16bit.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+5        work.cmos_write_req_gen.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+6        work.color_bar.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+7        work.ddr3.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+8        work.dvi_encoder.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+9        work.encode.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+10       work.frame_fifo_read.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+11       work.frame_fifo_write.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+12       work.frame_read_write.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+13       work.i2c_config.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+14       work.i2c_master_bit_ctrl.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+15       work.i2c_master_byte_ctrl.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+16       work.i2c_master_top.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+17       work.ipml_fifo_ctrl_v1_3.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+18       work.ipml_fifo_v1_3_afifo_16i_64o_512.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+19       work.ipml_fifo_v1_3_afifo_64i_16o_128.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+20       work.ipml_sdpram_v1_3_afifo_16i_64o_512.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+21       work.ipml_sdpram_v1_3_afifo_64i_16o_128.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+22       work.ipsl_ddrc_apb_reset.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+23       work.ipsl_ddrc_reset_ctrl.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+24       work.ipsl_ddrphy_dll_update_ctrl.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+25       work.ipsl_ddrphy_reset_ctrl.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+26       work.ipsl_ddrphy_training_ctrl.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+27       work.ipsl_ddrphy_update_ctrl.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+28       work.ipsl_hmemc_ddrc_top.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+29       work.ipsl_hmemc_phy_top.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+30       work.ipsl_phy_io.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+46       work.keyboard_buffer.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+47       work.keyboard_encoder.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+31       work.lut_ov5640_rgb565_1024_768.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+32       work.pll_50_400.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+48       work.pulse_zhuanghuan.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+33       work.serdes_4b_10to1.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+49       work.seven_decode_control.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+34       work.top.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (module definition)
+35       work.video_pll.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+36       work.video_timing_data.verilog may have changed because the following files changed:
+                        C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v (2019-11-24 22:16:40, 2019-11-24 22:24:23) <-- (may instantiate this module)
+
+*******************************************************************
+Unmodified files: 54
+FID:  path (timestamp)
+48       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_16i_64o_512\afifo_16i_64o_512.v (2019-05-07 17:30:46)
+49       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_16i_64o_512\rtl\ipml_fifo_ctrl_v1_3.v (2019-04-08 12:38:20)
+50       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_16i_64o_512\rtl\ipml_fifo_v1_3_afifo_16i_64o_512.v (2019-05-07 17:30:46)
+51       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_16i_64o_512\rtl\ipml_sdpram_v1_3_afifo_16i_64o_512.v (2019-05-07 17:30:46)
+52       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_64i_16o_128\afifo_64i_16o_128.v (2019-05-07 17:34:02)
+53       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_64i_16o_128\rtl\ipml_fifo_v1_3_afifo_64i_16o_128.v (2019-05-07 17:34:02)
+54       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_64i_16o_128\rtl\ipml_sdpram_v1_3_afifo_64i_16o_128.v (2019-05-07 17:34:02)
+55       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\clk_200M\clk_200M.v (2019-05-07 17:36:50)
+56       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\video_pll\video_pll.v (2019-05-07 18:16:44)
+87       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v (2019-07-25 08:49:30)
+88       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Count_pulse.v (2019-07-24 22:33:34)
+89       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Frequency_divider_dynamic_scanning.v (2019-06-07 21:40:58)
+90       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Nixie_Light_Display.v (2019-06-07 21:40:40)
+91       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Pulse.v (2019-07-01 10:03:06)
+92       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\clk_10hz.v (2019-06-05 16:05:28)
+93       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\clk_5hz.v (2019-06-05 16:06:02)
+94       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\keyboard_buffer.v (2019-06-07 22:37:36)
+95       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\keyboard_encoder.v (2019-06-07 21:41:06)
+96       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\pulse_zhuanghuan.v (2019-10-13 20:38:56)
+97       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\seven_decode_control.v (2019-06-07 21:40:48)
+57       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\ddr3\ddr3.v (2019-05-06 10:21:10)
+58       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\dvi_tx\dvi_encoder.v (2019-11-06 18:13:32)
+59       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\dvi_tx\encode.v (2008-07-24 16:13:50)
+60       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\dvi_tx\serdes_4b_10to1.v (2019-05-06 16:15:18)
+61       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_config.v (2019-11-09 22:41:06)
+62       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_bit_ctrl.v (2017-07-25 12:32:56)
+63       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_byte_ctrl.v (2017-07-25 12:32:56)
+64       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_defines.v (2017-07-25 12:32:56)
+65       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_top.v (2017-07-25 12:32:56)
+66       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\pll\pll_50_400.v (2019-05-06 10:21:10)
+67       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrc_apb_reset.v (2019-05-05 16:18:22)
+68       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrc_reset_ctrl.v (2019-05-05 16:18:22)
+69       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrphy_dll_update_ctrl.v (2019-05-05 16:18:22)
+70       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrphy_reset_ctrl.v (2019-05-05 16:18:22)
+71       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrphy_training_ctrl.v (2019-05-05 16:18:22)
+72       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrphy_update_ctrl.v (2019-05-05 16:18:22)
+73       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_hmemc_ddrc_top.v (2019-05-05 16:18:22)
+74       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_hmemc_phy_top.v (2019-05-05 16:18:22)
+75       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_phy_io.v (2019-05-05 16:18:22)
+76       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\aq_axi_master.v (2018-03-01 10:16:58)
+77       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\cmos_8_16bit.v (2017-07-25 12:32:56)
+78       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\cmos_write_req_gen.v (2017-07-25 12:32:56)
+79       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\color_bar.v (2017-07-25 12:32:56)
+80       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\frame_fifo_read.v (2018-01-10 16:36:18)
+81       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\frame_fifo_write.v (2017-07-25 12:32:56)
+82       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\frame_read_write.v (2019-05-07 17:34:32)
+83       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\lut_ov5640_rgb565_1024_768.v (2019-11-15 20:50:06)
+85       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\video_define.v (2019-11-07 19:34:30)
+86       C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\video_timing_data.v (2017-07-25 12:32:56)
+39       D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\generic\logos.v (2019-06-13 12:16:42)
+40       D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\vlog\hypermods.v (2019-06-13 12:16:52)
+41       D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\vlog\scemi_objects.v (2019-06-13 12:16:52)
+42       D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\vlog\scemi_pipes.svh (2019-06-13 12:16:52)
+43       D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\vlog\umr_capim.v (2019-06-13 12:16:52)
+
+*******************************************************************
+Unchanged modules: 1
+MID:  lib.cell.view
+3        work.clk_200M.verilog

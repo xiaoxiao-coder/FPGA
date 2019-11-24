@@ -1,0 +1,57 @@
+
+. Module name, LUTS, REGISTERS, LATCHES, ADDSUB, MUXES, DEDICATED RAMS, DISTRIBUTED RAMS, MULTS, BUFS
+. top, 1595, 1412, 0, 0, 0, 5, 68, 0, 0
+.	. Controller, 299, 329, 0, 0, 0, 0, 0, 0, 0
+.	.	. Count_pulse_0, 68, 104, 0, 0, 0, 0, 0, 0, 0
+.	.	.	. clk_10hz_1, 17, 28, 0, 0, 0, 0, 0, 0, 0
+.	.	.	. clk_5hz_1, 19, 28, 0, 0, 0, 0, 0, 0, 0
+.	.	. Count_pulse_1, 68, 104, 0, 0, 0, 0, 0, 0, 0
+.	.	.	. clk_10hz, 17, 28, 0, 0, 0, 0, 0, 0, 0
+.	.	.	. clk_5hz, 19, 28, 0, 0, 0, 0, 0, 0, 0
+.	. Pulse, 35, 28, 0, 0, 0, 0, 0, 0, 0
+.	. Pulse_1, 35, 28, 0, 0, 0, 0, 0, 0, 0
+.	. aq_axi_master, 195, 160, 0, 0, 0, 0, 0, 0, 0
+.	. cmos_8_16bit, 18, 26, 0, 0, 0, 0, 0, 0, 0
+.	. cmos_write_req_gen, 2, 7, 0, 0, 0, 0, 0, 0, 0
+.	. ddr3, 218, 117, 0, 0, 0, 0, 30, 0, 0
+.	.	. ipsl_hmemc_ddrc_top_Z11, 171, 25, 0, 0, 0, 0, 30, 0, 0
+.	.	.	. ipsl_ddrc_reset_ctrl_Z10, 171, 25, 0, 0, 0, 0, 30, 0, 0
+.	.	.	.	. ipsl_ddrc_apb_reset_Z9, 114, 10, 0, 0, 0, 0, 30, 0, 0
+.	.	. ipsl_hmemc_phy_top_Z8, 47, 92, 0, 0, 0, 0, 0, 0, 0
+.	.	.	. ipsl_ddrphy_dll_update_ctrl, 7, 9, 0, 0, 0, 0, 0, 0, 0
+.	.	.	. ipsl_ddrphy_reset_ctrl, 26, 31, 0, 0, 0, 0, 0, 0, 0
+.	.	.	. ipsl_ddrphy_training_ctrl, 5, 8, 0, 0, 0, 0, 0, 0, 0
+.	.	.	. ipsl_ddrphy_update_ctrl_16BIT_2s_0s_1s_2s_3s_1, 9, 44, 0, 0, 0, 0, 0, 0, 0
+.	.	.	. ipsl_phy_io_Z7, 0, 0, 0, 0, 0, 0, 0, 0, 0
+.	.	. pll_50_400, 0, 0, 0, 0, 0, 0, 0, 0, 0
+.	. dvi_encoder, 222, 161, 0, 0, 0, 0, 0, 0, 0
+.	.	. encode, 65, 45, 0, 0, 0, 0, 0, 0, 0
+.	.	. encode_0_0, 61, 35, 0, 0, 0, 0, 0, 0, 0
+.	.	. encode_0_1, 66, 40, 0, 0, 0, 0, 0, 0, 0
+.	.	. serdes_4b_10to1, 30, 41, 0, 0, 0, 0, 0, 0, 0
+.	. frame_read_write, 196, 282, 0, 0, 0, 4, 0, 0, 0
+.	.	. afifo_16i_64o_512, 40, 77, 0, 0, 0, 2, 0, 0, 0
+.	.	.	. ipml_fifo_v1_3_afifo_16i_64o_512_Z2, 40, 77, 0, 0, 0, 2, 0, 0, 0
+.	.	.	.	. ipml_fifo_ctrl_v1_3_10s_8s_ASYN_1020s_4s, 40, 77, 0, 0, 0, 0, 0, 0, 0
+.	.	.	.	. ipml_sdpram_v1_3_afifo_16i_64o_512_Z1, 0, 0, 0, 0, 0, 2, 0, 0, 0
+.	.	. afifo_64i_16o_128, 35, 82, 0, 0, 0, 2, 0, 0, 0
+.	.	.	. ipml_fifo_v1_3_afifo_64i_16o_128_Z5, 35, 82, 0, 0, 0, 2, 0, 0, 0
+.	.	.	.	. ipml_fifo_ctrl_v1_3_8s_10s_ASYN_252s_4s, 35, 82, 0, 0, 0, 0, 0, 0, 0
+.	.	.	.	. ipml_sdpram_v1_3_afifo_64i_16o_128_Z4, 0, 0, 0, 0, 0, 2, 0, 0, 0
+.	.	. frame_fifo_read_Z6, 67, 67, 0, 0, 0, 0, 0, 0, 0
+.	.	. frame_fifo_write_Z3, 54, 56, 0, 0, 0, 0, 0, 0, 0
+.	. i2c_config, 160, 136, 0, 0, 0, 0, 0, 0, 0
+.	.	. i2c_master_top, 145, 123, 0, 0, 0, 0, 0, 0, 0
+.	.	.	. i2c_master_byte_ctrl, 116, 101, 0, 0, 0, 0, 0, 0, 0
+.	.	.	.	. i2c_master_bit_ctrl, 68, 75, 0, 0, 0, 0, 0, 0, 0
+.	. keyboard_buffer, 39, 54, 0, 0, 0, 1, 0, 0, 0
+.	.	. keyboard_encoder, 33, 42, 0, 0, 0, 1, 0, 0, 0
+.	. lut_ov5640_rgb565_1024_768, 110, 0, 0, 0, 0, 0, 31, 0, 0
+.	. pulse_zhuanghuan_0, 1, 1, 0, 0, 0, 0, 0, 0, 0
+.	. pulse_zhuanghuan_1, 1, 1, 0, 0, 0, 0, 0, 0, 0
+.	. seven_decode_control, 20, 28, 0, 0, 0, 0, 7, 0, 0
+.	.	. Frequency_divider_dynamic_scanning, 14, 22, 0, 0, 0, 0, 0, 0, 0
+.	.	. Nixie_Light_Display, 0, 4, 0, 0, 0, 0, 7, 0, 0
+.	. video_pll, 0, 0, 0, 0, 0, 0, 0, 0, 0
+.	. video_timing_data, 42, 54, 0, 0, 0, 0, 0, 0, 0
+.	.	. color_bar, 25, 31, 0, 0, 0, 0, 0, 0, 0

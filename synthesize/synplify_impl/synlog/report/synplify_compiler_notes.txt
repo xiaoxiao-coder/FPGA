@@ -1,0 +1,229 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N: CG334 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_bit_ctrl.v":137:12:137:24|Read directive translate_off.
+@N: CG333 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_bit_ctrl.v":139:12:139:23|Read directive translate_on.
+@N: CG346 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_bit_ctrl.v":406:41:406:49|Read full_case directive.
+@N: CG347 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_bit_ctrl.v":406:51:406:63|Read a parallel_case directive.
+@N: CG346 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_bit_ctrl.v":410:47:410:55|Read full_case directive.
+@N: CG347 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_bit_ctrl.v":410:57:410:69|Read a parallel_case directive.
+@N: CG334 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_byte_ctrl.v":69:12:69:24|Read directive translate_off.
+@N: CG333 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_byte_ctrl.v":71:12:71:23|Read directive translate_on.
+@N: CG346 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_byte_ctrl.v":230:34:230:42|Read full_case directive.
+@N: CG347 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_byte_ctrl.v":230:44:230:56|Read a parallel_case directive.
+@N: CG347 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_16i_64o_512\rtl\ipml_sdpram_v1_3_afifo_16i_64o_512.v":656:40:656:52|Read a parallel_case directive.
+@N: CG347 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_64i_16o_128\rtl\ipml_sdpram_v1_3_afifo_64i_16o_128.v":656:40:656:52|Read a parallel_case directive.
+@N: CG364 :"D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\generic\logos.v":2251:7:2251:16|Synthesizing module GTP_PLL_E1 in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\video_pll\video_pll.v":4:7:4:15|Synthesizing module video_pll in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\dvi_tx\encode.v":46:7:46:12|Synthesizing module encode in library work.
+@N: CG364 :"D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\generic\logos.v":2154:7:2154:17|Synthesizing module GTP_OSERDES in library work.
+@N: CG364 :"D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\generic\logos.v":2212:7:2212:17|Synthesizing module GTP_OUTBUFT in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\dvi_tx\serdes_4b_10to1.v":3:7:3:21|Synthesizing module serdes_4b_10to1 in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\dvi_tx\dvi_encoder.v":2:7:2:17|Synthesizing module dvi_encoder in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_bit_ctrl.v":143:7:143:25|Synthesizing module i2c_master_bit_ctrl in library work.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_bit_ctrl.v":221:23:221:25|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_bit_ctrl.v":418:38:418:44|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_bit_ctrl.v":419:38:419:44|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_bit_ctrl.v":427:38:427:44|Removing redundant assignment.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_byte_ctrl.v":75:7:75:26|Synthesizing module i2c_master_byte_ctrl in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_top.v":30:7:30:20|Synthesizing module i2c_master_top in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_config.v":30:7:30:16|Synthesizing module i2c_config in library work.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_config.v":113:27:113:31|Removing redundant assignment.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\lut_ov5640_rgb565_1024_768.v":30:7:30:32|Synthesizing module lut_ov5640_rgb565_1024_768 in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\cmos_8_16bit.v":30:7:30:18|Synthesizing module cmos_8_16bit in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\cmos_write_req_gen.v":30:7:30:24|Synthesizing module cmos_write_req_gen in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\color_bar.v":33:7:33:15|Synthesizing module color_bar in library work.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\color_bar.v":222:14:222:21|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\color_bar.v":235:11:235:15|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\color_bar.v":247:12:247:17|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\color_bar.v":259:14:259:21|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\color_bar.v":271:12:271:17|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\color_bar.v":283:14:283:21|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\color_bar.v":345:17:345:25|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\color_bar.v":346:17:346:25|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\color_bar.v":347:17:347:25|Removing redundant assignment.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\video_timing_data.v":30:7:30:23|Synthesizing module video_timing_data in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_16i_64o_512\rtl\ipml_sdpram_v1_3_afifo_16i_64o_512.v":20:7:20:40|Synthesizing module ipml_sdpram_v1_3_afifo_16i_64o_512 in library work.
+@N: CG364 :"D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\generic\logos.v":1409:7:1409:16|Synthesizing module GTP_DRM18K in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_16i_64o_512\rtl\ipml_fifo_ctrl_v1_3.v":21:7:21:25|Synthesizing module ipml_fifo_ctrl_v1_3 in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_16i_64o_512\rtl\ipml_fifo_v1_3_afifo_16i_64o_512.v":25:7:25:38|Synthesizing module ipml_fifo_v1_3_afifo_16i_64o_512 in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_16i_64o_512\afifo_16i_64o_512.v":18:7:18:23|Synthesizing module afifo_16i_64o_512 in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\frame_fifo_write.v":31:7:31:22|Synthesizing module frame_fifo_write in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_64i_16o_128\rtl\ipml_sdpram_v1_3_afifo_64i_16o_128.v":20:7:20:40|Synthesizing module ipml_sdpram_v1_3_afifo_64i_16o_128 in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_16i_64o_512\rtl\ipml_fifo_ctrl_v1_3.v":21:7:21:25|Synthesizing module ipml_fifo_ctrl_v1_3 in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_64i_16o_128\rtl\ipml_fifo_v1_3_afifo_64i_16o_128.v":25:7:25:38|Synthesizing module ipml_fifo_v1_3_afifo_64i_16o_128 in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_64i_16o_128\afifo_64i_16o_128.v":18:7:18:23|Synthesizing module afifo_64i_16o_128 in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\frame_fifo_read.v":31:7:31:21|Synthesizing module frame_fifo_read in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\frame_read_write.v":31:7:31:22|Synthesizing module frame_read_write in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\pll\pll_50_400.v":5:7:5:16|Synthesizing module pll_50_400 in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrphy_reset_ctrl.v":1:7:1:28|Synthesizing module ipsl_ddrphy_reset_ctrl in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrphy_training_ctrl.v":1:7:1:31|Synthesizing module ipsl_ddrphy_training_ctrl in library work.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrphy_training_ctrl.v":34:37:34:61|Removing redundant assignment.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrphy_dll_update_ctrl.v":1:7:1:33|Synthesizing module ipsl_ddrphy_dll_update_ctrl in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrphy_update_ctrl.v":1:7:1:29|Synthesizing module ipsl_ddrphy_update_ctrl in library work.
+@N: CG364 :"D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\generic\logos.v":1316:7:1316:13|Synthesizing module GTP_DLL in library work.
+@N: CG364 :"D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\generic\logos.v":696:7:696:16|Synthesizing module GTP_DDRPHY in library work.
+@N: CG364 :"D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\generic\logos.v":1737:7:1737:18|Synthesizing module GTP_IOCLKBUF in library work.
+@N: CG364 :"D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\generic\logos.v":1766:7:1766:18|Synthesizing module GTP_IOCLKDIV in library work.
+@N: CG364 :"D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\generic\logos.v":195:7:195:16|Synthesizing module GTP_DDC_E1 in library work.
+@N: CG364 :"D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\generic\logos.v":1779:7:1779:17|Synthesizing module GTP_IODELAY in library work.
+@N: CG364 :"D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\generic\logos.v":1819:7:1819:17|Synthesizing module GTP_ISERDES in library work.
+@N: CG364 :"D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\generic\logos.v":1612:7:1612:16|Synthesizing module GTP_INBUFG in library work.
+@N: CG364 :"D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\generic\logos.v":2175:7:2175:16|Synthesizing module GTP_OUTBUF in library work.
+@N: CG364 :"D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\generic\logos.v":1645:7:1645:15|Synthesizing module GTP_IOBUF in library work.
+@N: CG364 :"D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\generic\logos.v":2226:7:2226:19|Synthesizing module GTP_OUTBUFTCO in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_phy_io.v":27:7:27:17|Synthesizing module ipsl_phy_io in library work.
+@N: CG364 :"D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\generic\logos.v":1636:7:1636:13|Synthesizing module GTP_INV in library work.
+@N: CG364 :"D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\generic\logos.v":1661:7:1661:17|Synthesizing module GTP_IOBUFCO in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_hmemc_phy_top.v":1:7:1:24|Synthesizing module ipsl_hmemc_phy_top in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrc_apb_reset.v":1:7:1:25|Synthesizing module ipsl_ddrc_apb_reset in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrc_reset_ctrl.v":2:7:2:26|Synthesizing module ipsl_ddrc_reset_ctrl in library work.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrc_reset_ctrl.v":93:15:93:21|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrc_reset_ctrl.v":122:20:122:31|Removing redundant assignment.
+@N: CG364 :"D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\lib\generic\logos.v":248:7:248:14|Synthesizing module GTP_DDRC in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_hmemc_ddrc_top.v":1:7:1:25|Synthesizing module ipsl_hmemc_ddrc_top in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\ddr3\ddr3.v":10:7:10:10|Synthesizing module ddr3 in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\aq_axi_master.v":39:7:39:19|Synthesizing module aq_axi_master in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\pulse_zhuanghuan.v":1:7:1:22|Synthesizing module pulse_zhuanghuan in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\clk_10hz.v":1:7:1:14|Synthesizing module clk_10hz in library work.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\clk_10hz.v":20:10:20:17|Removing redundant assignment.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\clk_5hz.v":1:7:1:13|Synthesizing module clk_5hz in library work.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\clk_5hz.v":20:9:20:15|Removing redundant assignment.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Count_pulse.v":1:7:1:17|Synthesizing module Count_pulse in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":1:7:1:16|Synthesizing module Controller in library work.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":224:67:224:75|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":224:90:224:98|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":224:113:224:121|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":224:136:224:144|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":226:66:226:74|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":226:89:226:97|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":226:112:226:120|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":226:135:226:143|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":228:66:228:74|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":228:89:228:97|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":228:112:228:120|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":228:135:228:143|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":230:66:230:74|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":230:89:230:97|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":230:112:230:120|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":230:135:230:143|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":232:66:232:74|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":232:89:232:97|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":232:112:232:120|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":232:135:232:143|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":234:66:234:74|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":234:89:234:97|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":234:112:234:120|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":234:135:234:143|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":236:66:236:74|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":236:89:236:97|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":236:112:236:120|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":236:135:236:143|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":238:66:238:74|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":238:89:238:97|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":238:112:238:120|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":238:135:238:143|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":240:33:240:38|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":240:44:240:44|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":240:51:240:51|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":242:33:242:38|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":242:44:242:44|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":242:51:242:51|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":244:33:244:38|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":244:44:244:44|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":244:51:244:51|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":246:33:246:38|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":246:44:246:44|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":246:51:246:51|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":248:33:248:38|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":248:43:248:43|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":248:50:248:50|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":248:64:248:72|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":248:87:248:95|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":248:110:248:118|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":248:133:248:141|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":278:16:278:19|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":336:22:336:28|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":344:22:344:28|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":352:22:352:28|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":354:22:354:28|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":582:17:582:21|Removing redundant assignment.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":623:14:623:15|Removing redundant assignment.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit x[0] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit x[1] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit x[2] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit x[3] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit x[4] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit x[5] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit x[6] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit x[7] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit x[8] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit x[9] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit x[13] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit x[17] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit x[19] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit x[20] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit x[21] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit x[22] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit x[23] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit y[0] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit y[1] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit y[2] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit y[3] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit y[4] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit y[5] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit y[6] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit y[7] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit y[8] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit y[9] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit y[11] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit y[15] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit y[19] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit y[22] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":219:0:219:5|Register bit y[23] is always 0.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Pulse.v":1:7:1:11|Synthesizing module Pulse in library work.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Pulse.v":95:25:95:29|Removing redundant assignment.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\keyboard_encoder.v":1:7:1:22|Synthesizing module keyboard_encoder in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\keyboard_buffer.v":1:7:1:21|Synthesizing module keyboard_buffer in library work.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\keyboard_buffer.v":92:29:92:32|Removing redundant assignment.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Frequency_divider_dynamic_scanning.v":1:7:1:40|Synthesizing module Frequency_divider_dynamic_scanning in library work.
+@N: CG179 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Frequency_divider_dynamic_scanning.v":29:7:29:11|Removing redundant assignment.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Nixie_Light_Display.v":1:7:1:25|Synthesizing module Nixie_Light_Display in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\seven_decode_control.v":1:7:1:26|Synthesizing module seven_decode_control in library work.
+@N: CG364 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v":30:7:30:9|Synthesizing module top in library work.
+@N: CL201 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\seven_decode_control.v":46:0:46:5|Trying to extract state machine for register d1_wx.
+@N: CL201 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\keyboard_encoder.v":33:4:33:9|Trying to extract state machine for register state.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v":195:0:195:5|Register bit xe1[0] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Count_pulse.v":108:0:108:5|Register bit count_speed[7] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Count_pulse.v":108:0:108:5|Register bit count_speed[6] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Count_pulse.v":108:0:108:5|Register bit count_speed[5] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Count_pulse.v":108:0:108:5|Register bit count_speed[4] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Count_pulse.v":108:0:108:5|Register bit count_speed[3] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Count_pulse.v":108:0:108:5|Register bit count_speed[2] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Count_pulse.v":108:0:108:5|Register bit count_speed[1] is always 0.
+@N: CL189 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Count_pulse.v":108:0:108:5|Register bit count_speed[0] is always 0.
+@N: CL201 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\aq_axi_master.v":342:2:342:7|Trying to extract state machine for register rd_state.
+@N: CL201 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\aq_axi_master.v":170:2:170:7|Trying to extract state machine for register wr_state.
+@N: CL159 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\aq_axi_master.v":67:16:67:24|Input M_AXI_BID is unused.
+@N: CL159 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\aq_axi_master.v":68:16:68:26|Input M_AXI_BRESP is unused.
+@N: CL159 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\aq_axi_master.v":69:16:69:26|Input M_AXI_BUSER is unused.
+@N: CL159 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\aq_axi_master.v":88:16:88:24|Input M_AXI_RID is unused.
+@N: CL159 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\aq_axi_master.v":90:16:90:26|Input M_AXI_RRESP is unused.
+@N: CL159 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\aq_axi_master.v":92:16:92:26|Input M_AXI_RUSER is unused.
+@N: CL159 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_hmemc_ddrc_top.v":215:25:215:33|Input dfi_error is unused.
+@N: CL159 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_hmemc_ddrc_top.v":216:25:216:38|Input dfi_error_info is unused.
+@N: CL159 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_phy_io.v":90:41:90:52|Input SRB_CORE_CLK is unused.
+@N: CL201 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrphy_update_ctrl.v":293:0:293:5|Trying to extract state machine for register state.
+@N: CL201 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrphy_dll_update_ctrl.v":36:0:36:5|Trying to extract state machine for register state.
+@N: CL201 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrphy_reset_ctrl.v":52:0:52:5|Trying to extract state machine for register state.
+@N: CL201 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\frame_fifo_read.v":108:0:108:5|Trying to extract state machine for register state.
+@N: CL159 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_64i_16o_128\rtl\ipml_sdpram_v1_3_afifo_64i_16o_128.v":49:40:49:49|Input wr_byte_en is unused.
+@N: CL201 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\frame_fifo_write.v":106:0:106:5|Trying to extract state machine for register state.
+@N: CL159 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\frame_fifo_write.v":45:34:45:50|Input wr_burst_data_req is unused.
+@N: CL159 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_16i_64o_512\rtl\ipml_sdpram_v1_3_afifo_16i_64o_512.v":49:40:49:49|Input wr_byte_en is unused.
+@N: CL201 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_config.v":81:0:81:5|Trying to extract state machine for register state.
+@N: CL201 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_top.v":87:0:87:5|Trying to extract state machine for register state.
+@N: CL201 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_byte_ctrl.v":201:1:201:6|Trying to extract state machine for register c_state.
+@N: CL201 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_bit_ctrl.v":384:4:384:9|Trying to extract state machine for register c_state.
+@N: CL159 :"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\dvi_tx\serdes_4b_10to1.v":4:16:4:18|Input clk is unused.
+@N|Running in 64-bit mode
+

@@ -1,0 +1,261 @@
+#OPTIONS:"|-layerid|0|-orig_srs|C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\synthesize\\synplify_impl\\synwork\\synplify_comp.srs|-top|top|-prodtype|synplify_pro|-primux|-fixsmult|-sdff_counter|-dspmac|-nram|-divnmod|-nostructver|-I|C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi|-I|C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\synthesize\\|-I|D:\\astudy\\FPGA_ziguang\\PDS_2019.1-patch10\\syn\\lib|-v2001|-devicelib|D:\\astudy\\FPGA_ziguang\\PDS_2019.1-patch10\\syn\\lib\\generic\\logos.v|-encrypt|-pro|-ui|-fid2|-ram|-sharing|on|-ll|2000|-autosm|-D_MULTIPLE_FILE_COMPILATION_UNIT_|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work"
+#CUR:"D:\\astudy\\FPGA_ziguang\\PDS_2019.1-patch10\\syn\\bin64\\c_ver.exe":1560399396
+#CUR:"D:\\astudy\\FPGA_ziguang\\PDS_2019.1-patch10\\syn\\lib\\generic\\logos.v":1560399402
+#CUR:"D:\\astudy\\FPGA_ziguang\\PDS_2019.1-patch10\\syn\\lib\\vlog\\hypermods.v":1560399412
+#CUR:"D:\\astudy\\FPGA_ziguang\\PDS_2019.1-patch10\\syn\\lib\\vlog\\umr_capim.v":1560399412
+#CUR:"D:\\astudy\\FPGA_ziguang\\PDS_2019.1-patch10\\syn\\lib\\vlog\\scemi_objects.v":1560399412
+#CUR:"D:\\astudy\\FPGA_ziguang\\PDS_2019.1-patch10\\syn\\lib\\vlog\\scemi_pipes.svh":1560399412
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\i2c_master\\i2c_config.v":1573310466
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\i2c_master\\i2c_master_bit_ctrl.v":1500957176
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\i2c_master\\i2c_master_defines.v":1500957176
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\i2c_master\\i2c_master_byte_ctrl.v":1500957176
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\i2c_master\\i2c_master_defines.v":1500957176
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\i2c_master\\i2c_master_top.v":1500957176
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\sources_1\\cmos_8_16bit.v":1500957176
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\sources_1\\cmos_write_req_gen.v":1500957176
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\sources_1\\lut_ov5640_rgb565_1024_768.v":1573822206
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\sources_1\\top.v":1574605463
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\dvi_tx\\dvi_encoder.v":1573035212
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\dvi_tx\\encode.v":1216887230
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\dvi_tx\\serdes_4b_10to1.v":1557130518
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\sources_1\\aq_axi_master.v":1519870618
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\sources_1\\color_bar.v":1500957176
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\sources_1\\video_define.v":1573126470
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\sources_1\\frame_fifo_read.v":1515573378
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\sources_1\\frame_fifo_write.v":1500957176
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\sources_1\\frame_read_write.v":1557221672
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\sources_1\\video_timing_data.v":1500957176
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\sources_1\\video_define.v":1573126470
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\rtl\\ipsl_ddrc_apb_reset.v":1557044302
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\rtl\\ipsl_ddrc_reset_ctrl.v":1557044302
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\rtl\\ipsl_ddrphy_dll_update_ctrl.v":1557044302
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\rtl\\ipsl_ddrphy_reset_ctrl.v":1557044302
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\rtl\\ipsl_ddrphy_training_ctrl.v":1557044302
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\rtl\\ipsl_ddrphy_update_ctrl.v":1557044302
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\rtl\\ipsl_hmemc_ddrc_top.v":1557044302
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\rtl\\ipsl_hmemc_phy_top.v":1557044302
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\rtl\\ipsl_phy_io.v":1557044302
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\pll\\pll_50_400.v":1557109270
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\ddr3\\ddr3.v":1557109270
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\i2c_master\\i2c_master_defines.v":1500957176
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\Dynamo\\clk_5hz.v":1559721962
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\Dynamo\\clk_10hz.v":1559721928
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\Dynamo\\Controller.v":1564015770
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\Dynamo\\Count_pulse.v":1563978814
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\Dynamo\\Frequency_divider_dynamic_scanning.v":1559914858
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\Dynamo\\keyboard_buffer.v":1559918256
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\Dynamo\\keyboard_encoder.v":1559914866
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\Dynamo\\Nixie_Light_Display.v":1559914840
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\Dynamo\\Pulse.v":1561946586
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\Dynamo\\pulse_zhuanghuan.v":1570970336
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\source\\Dynamo\\seven_decode_control.v":1559914848
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\ipcore\\afifo_16i_64o_512\\rtl\\ipml_fifo_v1_3_afifo_16i_64o_512.v":1557221446
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\ipcore\\afifo_64i_16o_128\\rtl\\ipml_fifo_v1_3_afifo_64i_16o_128.v":1557221642
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\ipcore\\afifo_64i_16o_128\\afifo_64i_16o_128.v":1557221642
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\ipcore\\afifo_16i_64o_512\\afifo_16i_64o_512.v":1557221446
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\ipcore\\clk_200M\\clk_200M.v":1557221810
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\ipcore\\video_pll\\video_pll.v":1557224204
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\ipcore\\afifo_16i_64o_512\\rtl\\ipml_fifo_ctrl_v1_3.v":1554698300
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\ipcore\\afifo_16i_64o_512\\rtl\\ipml_sdpram_v1_3_afifo_16i_64o_512.v":1557221446
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\ipcore\\afifo_64i_16o_128\\rtl\\ipml_sdpram_v1_3_afifo_64i_16o_128.v":1557221642
+0			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_config.v" verilog
+1			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_bit_ctrl.v" verilog
+2		*	"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_defines.v" verilog
+3			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_byte_ctrl.v" verilog
+4			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_top.v" verilog
+5			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\cmos_8_16bit.v" verilog
+6			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\cmos_write_req_gen.v" verilog
+7			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\lut_ov5640_rgb565_1024_768.v" verilog
+8			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\top.v" verilog
+9			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\dvi_tx\dvi_encoder.v" verilog
+10			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\dvi_tx\encode.v" verilog
+11			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\dvi_tx\serdes_4b_10to1.v" verilog
+12			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\aq_axi_master.v" verilog
+13			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\color_bar.v" verilog
+14		*	"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\video_define.v" verilog
+15			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\frame_fifo_read.v" verilog
+16			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\frame_fifo_write.v" verilog
+17			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\frame_read_write.v" verilog
+18			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\sources_1\video_timing_data.v" verilog
+19			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrc_apb_reset.v" verilog
+20			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrc_reset_ctrl.v" verilog
+21			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrphy_dll_update_ctrl.v" verilog
+22			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrphy_reset_ctrl.v" verilog
+23			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrphy_training_ctrl.v" verilog
+24			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_ddrphy_update_ctrl.v" verilog
+25			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_hmemc_ddrc_top.v" verilog
+26			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_hmemc_phy_top.v" verilog
+27			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\rtl\ipsl_phy_io.v" verilog
+28			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\pll\pll_50_400.v" verilog
+29			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\ddr3\ddr3.v" verilog
+30			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\clk_5hz.v" verilog
+31			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\clk_10hz.v" verilog
+32			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Controller.v" verilog
+33			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Count_pulse.v" verilog
+34			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Frequency_divider_dynamic_scanning.v" verilog
+35			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\keyboard_buffer.v" verilog
+36			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\keyboard_encoder.v" verilog
+37			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Nixie_Light_Display.v" verilog
+38			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\Pulse.v" verilog
+39			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\pulse_zhuanghuan.v" verilog
+40			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\source\Dynamo\seven_decode_control.v" verilog
+41			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_16i_64o_512\rtl\ipml_fifo_v1_3_afifo_16i_64o_512.v" verilog
+42			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_64i_16o_128\rtl\ipml_fifo_v1_3_afifo_64i_16o_128.v" verilog
+43			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_64i_16o_128\afifo_64i_16o_128.v" verilog
+44			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_16i_64o_512\afifo_16i_64o_512.v" verilog
+45			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\clk_200M\clk_200M.v" verilog
+46			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\video_pll\video_pll.v" verilog
+47			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_16i_64o_512\rtl\ipml_fifo_ctrl_v1_3.v" verilog
+48			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_16i_64o_512\rtl\ipml_sdpram_v1_3_afifo_16i_64o_512.v" verilog
+49			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\ipcore\afifo_64i_16o_128\rtl\ipml_sdpram_v1_3_afifo_64i_16o_128.v" verilog
+#Dependency Lists(Uses List)
+0 4
+1 2
+2 -1
+3 1 2
+4 2 3
+5 -1
+6 -1
+7 -1
+8 40 35 38 32 39 12 29 17 18 6 5 7 0 9 46
+9 11 10
+10 -1
+11 -1
+12 -1
+13 14
+14 -1
+15 -1
+16 -1
+17 15 43 16 44
+18 14 13
+19 -1
+20 19
+21 -1
+22 -1
+23 -1
+24 -1
+25 20
+26 27 24 21 23 22
+27 -1
+28 -1
+29 25 26 28
+30 -1
+31 -1
+32 33
+33 30 31
+34 -1
+35 36
+36 -1
+37 -1
+38 -1
+39 -1
+40 37 34
+41 47 48
+42 47 49
+43 42
+44 41
+45 -1
+46 -1
+47 -1
+48 -1
+49 -1
+#Dependency Lists(Users Of)
+0 8
+1 3
+2 4 3 1
+3 4
+4 0
+5 8
+6 8
+7 8
+8 -1
+9 8
+10 9
+11 9
+12 8
+13 18
+14 18 13
+15 17
+16 17
+17 8
+18 8
+19 20
+20 25
+21 26
+22 26
+23 26
+24 26
+25 29
+26 29
+27 26
+28 29
+29 8
+30 33
+31 33
+32 8
+33 32
+34 40
+35 8
+36 35
+37 40
+38 8
+39 8
+40 8
+41 44
+42 43
+43 17
+44 17
+45 -1
+46 8
+47 42 41
+48 41
+49 42
+#Design Unit to File Association
+module work clk_200M 45
+module work ipml_fifo_v1_3_afifo_64i_16o_128 42
+module work ipml_sdpram_v1_3_afifo_64i_16o_128 49
+module work ipml_fifo_v1_3_afifo_16i_64o_512 41
+module work ipml_fifo_ctrl_v1_3 47
+module work ipml_sdpram_v1_3_afifo_16i_64o_512 48
+module work Nixie_Light_Display 37
+module work keyboard_encoder 36
+module work Frequency_divider_dynamic_scanning 34
+module work Count_pulse 33
+module work clk_10hz 31
+module work clk_5hz 30
+module work pll_50_400 28
+module work ipsl_hmemc_phy_top 26
+module work ipsl_phy_io 27
+module work ipsl_hmemc_ddrc_top 25
+module work ipsl_ddrphy_update_ctrl 24
+module work ipsl_ddrphy_training_ctrl 23
+module work ipsl_ddrphy_reset_ctrl 22
+module work ipsl_ddrphy_dll_update_ctrl 21
+module work ipsl_ddrc_reset_ctrl 20
+module work ipsl_ddrc_apb_reset 19
+module work afifo_64i_16o_128 43
+module work afifo_16i_64o_512 44
+module work frame_fifo_write 16
+module work frame_fifo_read 15
+module work color_bar 13
+module work serdes_4b_10to1 11
+module work encode 10
+module work top 8
+module work seven_decode_control 40
+module work keyboard_buffer 35
+module work Pulse 38
+module work Controller 32
+module work pulse_zhuanghuan 39
+module work aq_axi_master 12
+module work ddr3 29
+module work frame_read_write 17
+module work video_timing_data 18
+module work dvi_encoder 9
+module work video_pll 46
+module work lut_ov5640_rgb565_1024_768 7
+module work cmos_write_req_gen 6
+module work cmos_8_16bit 5
+module work i2c_master_byte_ctrl 3
+module work i2c_master_bit_ctrl 1
+module work i2c_config 0
+module work i2c_master_top 4

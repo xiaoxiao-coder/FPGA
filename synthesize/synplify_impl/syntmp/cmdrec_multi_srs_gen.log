@@ -1,0 +1,7 @@
+D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\bin64\syn_nfilter.exe  -link  -top  top  -multisrs  C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\synthesize\synplify_impl\synwork\synplify_comp.srs  -osyn  C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\synthesize\synplify_impl\synwork\synplify_mult.srs  -log  C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\synthesize\synplify_impl\synlog\synplify_multi_srs_gen.srr 
+relcom:D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\bin64\syn_nfilter.exe -link -top top -multisrs ..\synwork\synplify_comp.srs -osyn ..\synwork\synplify_mult.srs -log ..\synlog\synplify_multi_srs_gen.srr
+rc:0 success:1 runtime:1
+file:..\synwork\synplify_comp.srs|io:i|time:1574605574|size:223379|exec:0|csum:6B938A8E1940D1BD0986CCB1EF7ED644
+file:..\synwork\synplify_mult.srs|io:o|time:1574605575|size:20334|exec:0|csum:
+file:..\synlog\synplify_multi_srs_gen.srr|io:o|time:1574605576|size:1185|exec:0|csum:
+file:D:\astudy\FPGA_ziguang\PDS_2019.1-patch10\syn\bin64\syn_nfilter.exe|io:i|time:1560399398|size:8823808|exec:1|csum:3618916D7958985CF38A6328459776F6

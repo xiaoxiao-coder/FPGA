@@ -1,0 +1,21 @@
+#OPTIONS:"|-modgen|-top|GTP_LUT5CARRY|-I|D:\\astudy\\FPGA_ziguang\\PDS_2019.1-patch10\\syn\\lib|-devicelib|D:\\astudy\\FPGA_ziguang\\PDS_2019.1-patch10\\syn\\lib\\xilinx\\unisim.v|-encrypt|-pro|-sysv|-dw|-primux|-ram|-fixsmult|-tri_compatible|-autosm|-fid2|-sharing|on|-ll|2000|-params|C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\synthesize\\synplify_impl\\syntmp\\GTP_LUT5CARRY.param"
+#CUR:"D:\\astudy\\FPGA_ziguang\\PDS_2019.1-patch10\\syn\\bin64\\c_ver.exe":1560399396
+#CUR:"D:\\astudy\\FPGA_ziguang\\PDS_2019.1-patch10\\syn\\lib\\vlog\\hypermods.v":1560399412
+#CUR:"D:\\astudy\\FPGA_ziguang\\PDS_2019.1-patch10\\syn\\lib\\vlog\\umr_capim.v":1560399412
+#CUR:"D:\\astudy\\FPGA_ziguang\\PDS_2019.1-patch10\\syn\\lib\\vlog\\scemi_objects.v":1560399412
+#CUR:"D:\\astudy\\FPGA_ziguang\\PDS_2019.1-patch10\\syn\\lib\\vlog\\scemi_pipes.svh":1560399412
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\synthesize\\synplify_impl\\syntmp\\GTP_LUT5CARRY.v":1560399402
+#CUR:"C:\\Users\\Dande\\Desktop\\13_ddr3_ov5640_hdmi\\synthesize\\synplify_impl\\syntmp\\GTP_LUT5CARRY.param":1574605651
+#numinternalfiles:4
+#defaultlanguage:verilog
+0			"C:\Users\Dande\Desktop\13_ddr3_ov5640_hdmi\synthesize\synplify_impl\syntmp\GTP_LUT5CARRY.v" verilog
+#Dependency Lists(Uses List)
+0 -1
+#Dependency Lists(Users Of)
+0 -1
+#Design Unit to File Association
+module work INT_LUTMUX4_UDP 0
+module work INT_LUTMUX2_UDP 0
+module work GTP_LUT5CARRY 0
+module work GTP_LUT5 0
+module work GTP_LUT6CARRY 0
